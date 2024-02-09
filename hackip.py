@@ -48,6 +48,7 @@ def banner_main():
         print(Blue_azul, "Org: ", r.json()['org'])
         print(Yellow_amarelo, "Timezone: ", r.json()['timezone'])
         print(Blue_azul, "Postal: ", r.json()['postal'])
+        print(Yellow-amarelo, "Estado: ", r.json()['region'])
         print()
 
         opção = input(Blue_azul + "Vc gostou do meu Script (sim ou não)?: ")
