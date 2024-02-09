@@ -13,5 +13,14 @@ Ethical Hacking
 
 1
 ```
-git clone
+git clone https://github.com/Hacker-github-ctrl/hackip.git
+```
+2
+```
+cd hackip
+```
+3
+```
+python3 hackip.py
+```
   
