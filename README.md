@@ -1,8 +1,8 @@
 Olá mundo! meu nome é Wesley, sou um PROGRAMADOR DEV FULL STACK.
 
-Desenvolvimento de Sites
-Segurança da Informação
-Ethical Hacking
+Desenvolvimento de Sites,
+Segurança da Informação,
+Ethical Hacking.
 
 * Kali Linux
 * Linux
