@@ -14,6 +14,7 @@ print(Yellow_amarelo, "[+] Carregando...")
 time.sleep(6)
 print(Blue_azul, "[✔] Concluído !")
 time.sleep(3)
+os.system('cls')
 
 def banner_main():
     print("______________________________________________________________")
